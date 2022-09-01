@@ -24,7 +24,7 @@ $ yarn add -D run-all-cli
 
 ## 📰 Changelog
 
-- https://github.com/mysticatea/run-all-cli/releases
+- https://github.com/1uri-silva/run-all-cli/releases
 
 ## 🍻 Contributing
 
