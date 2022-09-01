@@ -24,7 +24,7 @@ async function readPackage(commandsParsed) {
         if (!s.startsWith(e)) {
             throw new Error(`ERROR: ${e} not found`);
         }
-        const data = await executeAsync('yarn', [s], {
+        const data = await executeAsync('npm', [s], {
             cwd: undefined,
             env: process.env,
             stdio: 'inherit',
