@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+require('esm');
+require('../dist/lib').run(process);
