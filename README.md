@@ -17,19 +17,19 @@ $ yarn add -D run-all-cli
 
 ## 📖 Usage
 
-  example:
+example:
 
-  ```json
-  //package.json
+```json
+//package.json
 
-  {
-    "scripts": {
-      "start": "npm start"
-      "start:dev": "npm start dev",
-      "start:prod": "npm start prod",
-    }
+{
+  "scripts": {
+    "start": "npm start"
+    "start:dev": "npm start dev",
+    "start:prod": "npm start prod",
   }
-  ```
+}
+```
 
 ```bash
   $ run-all -s=start:*
@@ -37,7 +37,7 @@ $ yarn add -D run-all-cli
 
 ```ts
   Usage: run-all [COMMANDS...]
-    
+
     Options:
       -h, --help      Print this help text.
       -v, --version   Print version number.
@@ -46,12 +46,11 @@ $ yarn add -D run-all-cli
 
 #### Yarn Compatibility
 
-* For now it is not compatible 😔
-
+- For now it is not compatible 😔
 
 ## 📰 Changelog
 
-- https://github.com/1uri-silva/run-all/releases
+- https://github.com/1uri-silva/run-all-cli/releases
 
 ## 🍻 Contributing
 
