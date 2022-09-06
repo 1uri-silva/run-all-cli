@@ -29,12 +29,12 @@
   "engines": {
     "node": ">=15"
   },
-  "bugs": {
-    "url": "git://github.com/1uri-silva/run-all/issues"
-  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/1uri-silva/run-all.git"
+    "url": "git+https://github.com/1uri-silva/run-all-cli.git"
   },
-  "homepage": "git://github.com/1uri-silva/run-all"
+  "bugs": {
+    "url": "https://github.com/1uri-silva/run-all-cli/issues"
+  },
+  "homepage": "https://github.com/1uri-silva/run-all-cli#readme"
 }
