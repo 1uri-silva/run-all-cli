@@ -1,6 +1,6 @@
 {
-  "name": "run-all-cli",
-  "version": "1.0.1",
+  "name": "npm-run-all-cli",
+  "version": "1.0.0",
   "description": "A CLI to run multiple npm-scripts in sequential.",
   "main": "dist/lib/index.js",
   "scripts": {
