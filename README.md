@@ -1,16 +1,16 @@
-# run-all-cli
+# npm-run-all-cli
 
-[![npm version](https://img.shields.io/npm/v/run-all-cli.svg)](https://www.npmjs.com/package/run-all-cli)
-[![Downloads/month](https://img.shields.io/npm/dm/run-all-cli.svg)](http://www.npmtrends.com/run-all-cli)
+[![npm version](https://img.shields.io/npm/v/npm-run-all-cli.svg)](https://www.npmjs.com/package/npm-run-all-cli)
+[![Downloads/month](https://img.shields.io/npm/dm/npm-run-all-cli.svg)](http://www.npmtrends.com/npm-run-all-cli)
 
 A CLI to run multiple npm-scripts in sequential.
 
 ## 💿 Installation
 
 ```bash
-$ npm install run-all-cli --save-dev
+$ npm install npm-run-all-cli --save-dev
 # or
-$ yarn add -D run-all-cli
+$ yarn add -D npm-run-all-cli
 ```
 
 - It requires `Node@>=15`.
