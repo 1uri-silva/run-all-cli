@@ -1,11 +1,10 @@
 {
   "name": "run-all-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI to run multiple npm-scripts in sequential.",
   "main": "dist/lib/index.js",
   "scripts": {
-    "build": "tsc -p .",
-    "build:dev": "tsc -p ."
+    "build": "tsc -p ."
   },
   "keywords": [
     "cli",
@@ -21,7 +20,7 @@
   "devDependencies": {
     "@types/node": "^18.7.6"
   },
-  "author": "1uri-silva <iurirodrigues2200@gmail.com>",
+  "author": "iuri-silva <iurirodrigues2200@gmail.com>",
   "license": "MIT",
   "bin": {
     "run-all": "bin/run-all"
