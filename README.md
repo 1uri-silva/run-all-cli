@@ -1,17 +1,10 @@
 # npm-run-all-cli
 
-[![npm version](https://img.shields.io/npm/v/npm-run-all-cli.svg)](https://www.npmjs.com/package/npm-run-all-cli)
-[![Downloads/month](https://img.shields.io/npm/dm/npm-run-all-cli.svg)](http://www.npmtrends.com/npm-run-all-cli)
-
 A CLI to run multiple npm-scripts in sequential.
 
-## 💿 Installation
+Project removed npm
 
-```bash
-$ npm install npm-run-all-cli --save-dev
-# or
-$ yarn add -D npm-run-all-cli
-```
+## 💿 Installation
 
 - It requires `Node@>=15`.
 
@@ -47,10 +40,6 @@ example:
 #### Yarn Compatibility
 
 - For now it is not compatible 😔
-
-## 📰 Changelog
-
-- https://github.com/1uri-silva/run-all-cli/releases
 
 ## 🍻 Contributing
 
